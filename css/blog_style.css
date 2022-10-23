@@ -1,0 +1,101 @@
+.container-fluid{
+  margin-bottom: 2vh;
+}
+
+.blog-heading {
+  background-image: url("../img/diary.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+  background-color: #888888;
+  background-blend-mode: multiply;
+}
+
+.blog-heading>h1 {
+  font-size: 35pt;
+}
+
+.blog-box {
+  padding: 0px 30px 10px 20px;
+  font-size: 14pt;
+}
+
+.blog-btn {
+  float: right;
+}
+
+#heading {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#heading-layer {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: rgba(248, 247, 216, 0.6);
+  background-blend-mode: multiply;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#heading-text {
+  color: white;
+  text-align: center;
+}
+
+#heading-text>h1 {
+  font-family: "Lora";
+  font-size: max(7vw, 40pt);
+}
+
+#heading-text>h2 {
+  font-family: "Lora";
+  font-size: max(5vw, 30pt);
+}
+
+#mainNav {
+  background-color: transparent;
+}
+
+#mainNav.scrolled {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#blog-content {
+  position: absolute;
+  top: 100vh;
+  margin-top: 40px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: justify;
+}
+
+.blog-img {
+  width: 100%;
+  margin-bottom: 30px;
+  max-height: 120vh;
+}
+
+i.fab {
+  color: white;
+}
+
+.note {
+  margin-top: 20px;
+  margin-bottom: 0;
+  max-width: 94%;
+  margin-left: 3%;
+}

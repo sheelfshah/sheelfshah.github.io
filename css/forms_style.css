@@ -1,0 +1,65 @@
+.blur{
+    filter: blur(5px);
+}
+
+.forms-heading {
+  background-image: url("../img/folders.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  color: white;
+  background-color: #777777;
+  background-blend-mode: multiply;
+  width: 96%;
+  margin-left: 2%;
+}
+
+.forms-heading>h1 {
+  font-size: 35pt;
+}
+
+.row{
+    margin-bottom: 5vh;
+}
+
+.col-md-4{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 40px;
+}
+.col-md-4>p{
+  font-size: 16pt;
+}
+
+.form.hide{
+    display: none;
+}
+
+.form{
+    z-index: 2;
+    position: absolute;
+    top: 3vh;
+    left: 3vw;
+    height: 94vh;
+    width: 94vw;
+    background-color: #000000;
+    border: 2px solid #888;
+    border-radius: 10px;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.form>iframe{
+    width: 88vw;
+    height: 88vh;
+}
+
+.form>button{
+    position: absolute;
+    top: 1vh;
+    left: 1vw;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}

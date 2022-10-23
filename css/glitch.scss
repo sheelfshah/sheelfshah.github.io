@@ -1,0 +1,93 @@
+.glitch {
+    display: inline;
+    text-decoration: none;
+    text-transform: none;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0;
+    color: #fff;
+    
+    &:before, &:after {
+        display: block;
+        content: attr(data-glitch);
+        text-transform: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        opacity: .8;
+    } &:after {
+        color: #f0f;
+        z-index: -2;
+    } &:before {
+        color: #099;
+        z-index: -1;
+    }
+    &:hover {
+        &:before {
+            animation: glitch .5s cubic-bezier(.25, .46, .45, .94) both 1
+        }
+        &:after {
+            animation: glitch .4s cubic-bezier(.25, .46, .45, .94) reverse both 2
+        }
+    }
+}
+
+.glitch1.hover{
+    animation: glitchone .2s cubic-bezier(.25, .46, .45, .94) both 3
+}
+.glitch2.hover{
+    animation: glitchone .4s cubic-bezier(.25, .46, .45, .94) both 2
+}
+.glitch3.hover{
+    animation: glitchone .2s cubic-bezier(.25, .46, .45, .94) both 3
+}
+.glitch4.hover{
+    animation: glitchone .4s cubic-bezier(.25, .46, .45, .94) both 2
+}
+.glitch5.hover{
+    animation: glitchone .3s cubic-bezier(.25, .46, .45, .94) both 2
+}
+
+@media only screen and (max-width: 400px) {
+    .glitch {
+        font-size: 3em;
+    }
+}
+
+
+@keyframes glitch {
+    0% {
+        transform: translate(0)
+    }
+    20% {
+        transform: translate(-2px, 2px)
+    }
+    40% {
+        transform: translate(-2px, -2px)
+    }
+    60% {
+        transform: translate(2px, 2px)
+    }
+    80% {
+        transform: translate(2px, -2px)
+    }
+    to {
+        transform: translate(0)
+    }
+}
+
+@keyframes glitchone {
+    0% {
+        color: #ffff00;
+    }
+    70% {
+        color: #888800;
+    }
+    to {
+        color: #ffff00;
+    }
+}
+
+/*sass --watch glitch.scss:glitch.css*/

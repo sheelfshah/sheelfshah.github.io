@@ -1,0 +1,128 @@
+#top {
+  position: fixed;
+  bottom: 4%;
+  right: 2%;
+  border-radius: 50%;
+  opacity: 1;
+  display: none;
+}
+
+@font-face {
+  font-family: 'catchfont';
+  src: url('AVENGEANCE HEROIC AVENGER.otf');
+}
+
+#catchphrase {
+  text-transform: none;
+  letter-spacing: 3px;
+  color: yellow !important;
+  font-family: 'catchfont';
+}
+
+.site-heading {
+  margin-bottom: 0px;
+}
+
+.statblock {
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.statblock>.statcount {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.curved {
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 5%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.curved svg {
+  display: block;
+}
+
+.item-heading, .merch-heading {
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 13vmin;
+  text-transform: uppercase;
+}
+
+.item-content {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+#curve1 {
+  background: #197dcf;
+  padding-top: 0px;
+}
+
+#curve2 {
+  background: #db5e04;
+}
+
+#curve3 {
+  background-image: url("../img/extracurr-intro.jpg");
+  background-size: cover;
+  background-color: #8f9569;
+  background-position: center;
+  background-blend-mode: multiply;
+  padding-top: 0px;
+}
+
+#curve4 {
+  background: #11118b;
+}
+
+#curve5 {
+  background: #ffe599;
+  padding-bottom: 5%;
+  color: #5f3e27;
+  padding-top: 0px;
+}
+
+#curve6 {
+  background: #6ce6a5;
+  color: #033456;
+  padding-bottom: 5%;
+  padding-top: 0px;
+}
+
+#curve6>.container>.row>.rounded > .merch-heading{
+  background-image: url(../img/merch_cg4.jfif);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  background-position: top left;
+  animation: merchbg 3s;
+  animation-delay: 3s;
+  animation-fill-mode: both;
+}
+
+@keyframes merchbg {
+  100% {background-position: center;}
+}
+
+.come-in {
+  transform: translateY(150px);
+  animation: come-in 0.8s ease forwards;
+}
+
+.already-visible {
+  transform: translateY(0);
+  animation: none;
+}
+
+@keyframes come-in {
+  to {
+    transform: translateY(0);
+  }
+}
