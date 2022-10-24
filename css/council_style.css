@@ -14,6 +14,8 @@
   --sec2-c: #6b1b23;
   --sec3-bg: #6ce6a5;
   --sec3-c: #033456;
+  --sec4-bg: #11118b;
+  --sec4-c: #11dd11dd;;
 }
 
 body{
@@ -45,6 +47,10 @@ body{
   margin-left: 2%;
 }
 
+.intern > p{
+  text-align: justify;
+}
+
 .section1{
   background: var(--sec1-bg);
   color: var(--sec1-c);
@@ -53,7 +59,6 @@ body{
 .section2{
   background: var(--sec2-bg);
   color: var(--sec2-c);
-  font-size: 11pt;
 }
 
 .section2 h4{
@@ -64,12 +69,21 @@ body{
 .section3{
   background: var(--sec3-bg);
   color: var(--sec3-c);
-  font-size: 11pt;
 }
 
 .section3 h4{
   font-size: 15pt;
   word-break: break-word;
+}
+
+.section4{
+  background: var(--sec4-bg);
+  color: var(--sec4-c);
+}
+
+ul > li{
+  width: 33%;
+  display: inline-block;
 }
 
 .img-box img {
