@@ -2,3 +2,8 @@
 body .navbar {
   /* small navbar tweak */
 }
+
+.multicol-2 {
+  columns: 2;           /* number of columns */
+  column-gap: 2rem;     /* spacing between columns */
+}

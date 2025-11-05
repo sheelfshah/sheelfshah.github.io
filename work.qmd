@@ -23,7 +23,6 @@ With all this perspective, I am now moving towards a different stage of life whe
 
 ---
 
-## Quadeye Internship  
 **Quantitative Strategy Internship (2022)**
 
 Before August 2021, I didn’t even know ‘quant’ existed as a field. The whole idea of algorithmic trading was enthralling. I knew I wanted to do a quant internship then, especially after having learned that probability/stats were the cruces of the game. I had never heard of Quadeye before and it didn't look like a well-established company, but since I was so certain about quant, I went ahead and applied for the internship. 
@@ -58,6 +57,7 @@ Ever since, I have been very interested in Reinforcement Learning, and have thus
 # People I Worked With
 
 ## Quadeye (Full-time)
+<div class="multicol-2">
 - [Aadish Jain](https://in.linkedin.com/in/aadish-jain-7428251b1)
 - [Aakash Agarwal / AAAkash](https://in.linkedin.com/in/aakash-agarwal-77980016b) - *Primary mentor*
 - [Abhishek Bhatia](https://www.linkedin.com/in/abhishek-bhatia-177248195/)
@@ -101,10 +101,12 @@ Ever since, I have been very interested in Reinforcement Learning, and have thus
 - [Vikram Damle](https://in.linkedin.com/in/vikramdamle)
 - [Vipul Agarwal](https://www.linkedin.com/in/vipul-agarwal-9492a71a2/)
 - [Yatharth Goswami](https://www.linkedin.com/in/yatharth-goswami/)
+</div>
 
 ---
 
 ## Quadeye (Internship)
+<div class="multicol-2">
 - [Aadish Jain](https://www.linkedin.com/in/aadish-jain-7428251b1/)
 - [Adarsh Kumar](https://www.linkedin.com/in/adarsh-kumar-b480b9206/)
 - [Aditya Badola](https://www.linkedin.com/in/aditya-b-583776205/)
@@ -139,10 +141,12 @@ Ever since, I have been very interested in Reinforcement Learning, and have thus
 - [Tanmay Bansal (co-mentor)](https://www.linkedin.com/in/tanmay-bansal-1a765115b/)
 - [Uttam Sikaria (partner)](https://www.linkedin.com/in/uttam-sikaria-a3213a21/)
 - [Yatharth Goswami](https://www.linkedin.com/in/yatharth-goswami/)
+</div>
 
 ---
 
 ## Fraazo
+<div class="multicol-2">
 - [Dishant Gupta](https://www.linkedin.com/in/dishant-guptaa/)
 - [Jay Lahoti](https://www.linkedin.com/in/jay-lahoti-a3556b1aa/)
 - [Kunal Chhabra](https://www.linkedin.com/in/kunal-chhabra-6b81b6191/)
@@ -150,6 +154,7 @@ Ever since, I have been very interested in Reinforcement Learning, and have thus
 - [Palak Mehta](https://www.linkedin.com/in/palak-mehta-93a934145/)
 - [Suraksha Shetty](https://www.linkedin.com/in/suraksha-shetty-4141b5140/)
 - [Yash Dave](https://www.linkedin.com/in/yash-dave12345/) - *Mentor*
+</div>
 
 ---
 
