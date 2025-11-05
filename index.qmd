@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Hi — I'm Your Name
+
+Welcome to my personal site. This is built with Quarto and the *Flatly* theme.
+
+## Projects
+
+- Project A
+- Project B
+

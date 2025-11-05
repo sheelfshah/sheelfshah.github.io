@@ -1,0 +1,6 @@
+/.quarto/
+/docs/      # remove this line if you plan to commit rendered output
+/_site/
+/_publish/
+
+**/*.quarto_ipynb
