@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs    # optional: render into docs/ (convenient for Pages)
+  
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: flatly     # Bootswatch "Flatly" theme
+    toc: true
+    toc-depth: 2
