@@ -4,8 +4,17 @@ title: "About"
 
 ## About me
 
-Short bio here.
+I am Sheel. I like to solve problems --- usually at the intersection of math and programming. This is what drove to study Reinforcement Learning, Probability, Statistics, and Machine Learning at IIT Bombay. With a very similar motivation, I joined Quadeye as a Quantitative Researcher to work on all kinds of problems in the high frequency trading space. Again, with a similar motivation, I am now an MSML student at Carnegie Mellon University. I am currently working on problems in Diffusion Models.
 
-TODO
+Outside of being a geek, I like to play the drums, travel, and trek. I am also a big fan of PewDiePie. I am also a health/fitness enthusiast. Here's my favorite joke:
+<details>
+<summary>Why did the chicken cross the road?</summary>
+To get to the idiot's house.
 
-Add Extracurriculars
+Did you get it? No? Try this one:
+<details>
+<summary>Knock knock. (Who's there?)</summary>
+The chicken.
+</details>
+</details>
+

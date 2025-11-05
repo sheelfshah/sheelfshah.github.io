@@ -2,11 +2,20 @@
 title: "Home"
 ---
 
+::: {.columns}
+::: {.column width="40%"}
+![](images/sheel_times_square.jpg){.img-fluid}
+:::
+
+:::{.column width="10%"}
+:::
+
+::: {.column width="50%"}
 # Hi — I'm Sheel Shah
 
 I am a Master's in Machine Learning student at Carnegie Mellon University. I graduated from IIT Bombay (EE) in 2023, and before joining CMU, I was a Quantitative Researcher at Quadeye Securities.
+:::
+:::
 
-## Work In Progress
 
-TODO
 
