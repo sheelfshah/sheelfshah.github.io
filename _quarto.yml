@@ -3,13 +3,30 @@ project:
   output-dir: docs    # optional: render into docs/ (convenient for Pages)
   
 website:
-  title: "Your Name"
+  title: "SheelFShah"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: work.qmd
+        text: Work
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/sheelfshah
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sheelfshah/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:sheels@cs.cmu.edu
+        aria-label: Email
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=whKtmNcAAAAJ
+        aria-label: Google Scholar
 
 format:
   html:

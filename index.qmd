@@ -2,12 +2,11 @@
 title: "Home"
 ---
 
-# Hi — I'm Your Name
+# Hi — I'm Sheel Shah
 
-Welcome to my personal site. This is built with Quarto and the *Flatly* theme.
+I am a Master's in Machine Learning student at Carnegie Mellon University. I graduated from IIT Bombay (EE) in 2023, and before joining CMU, I was a Quantitative Researcher at Quadeye Securities.
 
-## Projects
+## Work In Progress
 
-- Project A
-- Project B
+TODO
 
