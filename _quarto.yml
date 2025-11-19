@@ -14,6 +14,8 @@ website:
         text: Work
       - href: projects.qmd
         text: Projects
+      - href: random.qmd
+        text: Random
     right:
       - icon: github
         href: https://github.com/sheelfshah
